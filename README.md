@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Cervieri</h1>
-<h3 align="center">A fullstack developer from Brazil (React, Typescript, Styled Components, Node, Nestjs, MongoDB))</h3>
+<h3 align="center">A fullstack developer from Brazil (React, Typescript, Styled Components, Node, Nestjs, MongoDB)</h3>
 
 - 🔭 I’m currently working on [Gerador de Ads](http://geradordeads.com/gerador)
 
